@@ -22,6 +22,7 @@
 
 use Drupal\Component\Utility\Html;
 use Drupal\Core\Url;
+use Drupal\Core\Render\Element;
 
 /**
  * Implements hook_preprocess_paragraph().
